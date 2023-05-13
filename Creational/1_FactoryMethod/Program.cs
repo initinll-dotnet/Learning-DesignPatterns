@@ -1,7 +1,5 @@
 ﻿using _1_FactoryMethod.Client;
 
-using System.Diagnostics.Metrics;
-
 new Client().Main();
 
 /* 

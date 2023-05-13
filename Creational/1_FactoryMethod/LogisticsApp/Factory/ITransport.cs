@@ -2,5 +2,5 @@
 
 public interface ITransport
 {
-    public string Deliver();
+    string Deliver();
 }
